@@ -13,7 +13,7 @@ Stocks Dataset couldn't be uploaded so here is the link for the dataset:
   
 - **Breast Cancer Dataset** https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data
 
-# Machine Learning Pipeline
+# Machine Learning Data Pipeline
 - Data Preprocessing
 - Exploratory Data Analysis
 - Feature Engineering and Scaling
