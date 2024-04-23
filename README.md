@@ -7,6 +7,7 @@ There are two projects in this series currently namely:
 Python Notebook files have been uploaded here along with the dataset.
 
 **Dataset**
+
 Stocks Dataset couldn't be uploaded so here is the link for the dataset:
 - **Stocks Dataset** https://www.kaggle.com/datasets/luisandresgarcia/stock-market-prediction/data
   
